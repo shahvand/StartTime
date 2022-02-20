@@ -7,7 +7,7 @@ sleep2 = 05
 ##################### Year
 year = 1400
 ##################### Shomare Gharardad
-ShGharardad = 1884
+ShGharardad = 1774
 ##################### Afther Change sh Gharardad Befor Send Enter
 sleep3 = 3
 ##################### Number Row Contract
