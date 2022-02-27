@@ -1,13 +1,13 @@
 [Sendf12-config]
 
 #####################Time Sleep For Send User And Password
-sleep1 = 10
+sleep1 = 20
 ##################### Afther User Password
-sleep2 = 05
+sleep2 = 08
 ##################### Year
 year = 1400
 ##################### Shomare Gharardad
-ShGharardad = 1884
+ShGharardad = 00170
 ##################### Afther Change sh Gharardad Befor Send Enter
 sleep3 = 3
 ##################### Number Row Contract
