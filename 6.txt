@@ -9,7 +9,7 @@ year = 1400
 ##################### Shomare Gharardad
 ShGharardad = 0253
 ##################### Afther Change sh Gharardad Befor Send Enter
-sleep3 = 3
+sleep3 = 9
 ##################### Number Row Contract
 Down = 1
 ##################### Number Of Row Sheet
