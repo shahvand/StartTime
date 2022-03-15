@@ -5,9 +5,9 @@ sleep1 = 20
 ##################### Afther User Password
 sleep2 = 09
 ##################### Year
-year = 1398
+year = 1400
 ##################### Shomare Gharardad
-ShGharardad = 03300
+ShGharardad = 01874.1.8
 ##################### Afther Change sh Gharardad Befor Send Enter
 sleep3 = 9
 ##################### Number Row Contract
