@@ -15,4 +15,4 @@ Down = 2
 ##################### Number Of Row Sheet
 LeftSheet = 1
 ##################### True = Select All  False = Select Once  None = Select All Available Sheet  Radio = radio Select
-SelectSheet =  False
+SelectSheet =  True
