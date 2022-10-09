@@ -1,17 +1,18 @@
 [Sendf12-config]
 
 #####################Time Sleep For Send User And Password
-sleep1 = 10
+sleep1 = 25
 ##################### Afther User Password
 sleep2 = 09
+Down = 0
 ##################### Year
 year = 1400
 ##################### Shomare Gharardad
 ShGharardad = 01774.2.9
 ##################### Afther Change sh Gharardad Befor Send Enter
-sleep3 = 9
+sleep3 = 20
 ##################### Number Row Contract
-Down = 1
+Down2 = 2
 ##################### Number Of Row Sheet
 LeftSheet = 1
 ##################### True = Select All  False = Select Once  None = Select All Available Sheet  Radio = radio Select

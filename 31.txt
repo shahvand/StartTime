@@ -1,9 +1,9 @@
 [Sendf12-config]
 
 #####################Time Sleep For Send User And Password
-sleep1 = 10
+sleep1 = 20
 ##################### Afther User Password
-sleep2 = 04
+sleep2 = 08
 ##################### Year
 year = 1400
 ##################### Shomare Gharardad

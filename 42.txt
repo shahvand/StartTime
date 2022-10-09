@@ -11,7 +11,8 @@ ShGharardad = 01773.1.8
 ##################### Afther Change sh Gharardad Befor Send Enter
 sleep3 = 9
 ##################### Number Row Contract
-Down = 1
+Down = 0
+Down2 = 1
 ##################### Number Of Row Sheet
 LeftSheet = 1
 ##################### True = Select All  False = Select Once  None = Select All Available Sheet  Radio = radio Select
